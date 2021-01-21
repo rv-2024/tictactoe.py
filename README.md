@@ -1,2 +1,2 @@
 # tictactoe.py
-TICTACTOE GUI GAME
+TICTACTOE GUI GAME with python tinkter
